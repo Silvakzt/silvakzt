@@ -25,7 +25,9 @@
 <br>
 
 <div align="center">
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silvakzt&theme=graywhite) | 
+  <img height="165" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silvakzt&theme=graywhite)">
+  <img height="180" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Silvakzt&theme=graywhite)>
+  <img align="center" alt="Top Language" src="![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Silvakzt&theme=graywhite&utcOffset=8)/>
 </div>
 <!--
 **SIlvakzt/silvakzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
