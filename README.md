@@ -1,5 +1,5 @@
 ## Hi guys 👋
-![Image](https://github.com/user-attachments/assets/5c38973a-845b-48f1-8b1b-c1e3207fdb08)
+![Image](https://imgur.com/a/bMbEI4S)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
