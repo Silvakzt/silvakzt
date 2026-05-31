@@ -21,6 +21,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silvakzt&theme=graywhite)
+  | :-: |
+</div>
 
 <!--
 **SIlvakzt/silvakzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
